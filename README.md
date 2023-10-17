@@ -1,1 +1,1 @@
-My personal website. Soure code borrowed from Jon Barron's public academic website: https://jonbarron.info/.
+My personal website. Source code borrowed from Jon Barron's public academic website: https://jonbarron.info/.
